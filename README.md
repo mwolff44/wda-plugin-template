@@ -1,6 +1,6 @@
 # WDA PLUGIN TEMPLATE
 
-![wda-plugin-template release](https://img.shields.io/badge/WDA_PLUGIN_VERSION_version-1.0.0-8A2BE2)
+![wda-plugin-template release](https://img.shields.io/badge/WDA_PLUGIN_version-1.0.0-8A2BE2)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://www.fsf.org)
 
 ---
