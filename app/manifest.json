@@ -1,0 +1,32 @@
+{
+  "manifestVersion": "0.1",
+  "version": "1.0.0",
+  "id": "wda-plugin-template",
+  "packageName": "io.wazo.wda.wda-plugin-template",
+  "productType": "app",
+  "name" : {
+    "short": "Plugin Template",
+    "full": "Plugin Template"
+  },
+  "developer": {
+    "name": "Wazo Inc"
+  },
+  "description": {
+    "short": "Plugin Template",
+    "full": "Plugin Template"
+  },
+  "icons": {
+    "color": "https://avatars.githubusercontent.com/u/68688703?s=200&v=4"
+  },
+  "staticTabs": [
+    {
+      "entityId": "plugin-template",
+      "context": [
+        "sidebarTab"
+      ],
+      "name": "Plugin template",
+      "contentUrl": "./index.html",
+      "icon": "./fish.svg"
+    }
+  ]
+}
