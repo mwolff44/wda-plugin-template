@@ -1,0 +1,1 @@
+# wda-plugin-template
