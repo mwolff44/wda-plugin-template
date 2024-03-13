@@ -21,21 +21,15 @@ You must adjust the content of Caddyfile, line 19, to add your domain/IP. By def
 
 ### start the container
 
-`̀``bash
-docker compose up -d
-`̀``
+  docker compose up -d
 
 ### view logs
 
-`̀``bash
-docker compose logs -f
-`̀``
+  docker compose logs -f
 
 ### Stop the container
 
-`̀``bash
-docker compose stop
-`̀``
+  docker compose stop
 
 ## Configuration
 
